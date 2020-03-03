@@ -1,3 +1,3 @@
 # purecss
 
-Inspired from [purecss-francine](https://github.com/cyanharlow/purecss-francine) to try making similar things and get good at CSS
+Inspired from the purecss repos of [Diana Smith](https://github.com/cyanharlow?tab=repositories) to try making similar things and get good at CSS
